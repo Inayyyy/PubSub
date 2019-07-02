@@ -9,7 +9,7 @@ password_file /etc/mosquitto/passwd
 
 3. Use tool `mosquitto_passwd` to manage usernames and passwords in terminal.
 
-# test with subscriber and publisher  
+# Test with subscriber and publisher  
 - sub.py - this is a subscriber script written in python.  
 - pub.py - this is a publisher script written in python. It publishes the air quality infomation of cities in CA. Data comes from [AirNow - California Air Quality website](https://www.airnow.gov/index.cfm?action=airnow.local_state&stateid=5). 
 
